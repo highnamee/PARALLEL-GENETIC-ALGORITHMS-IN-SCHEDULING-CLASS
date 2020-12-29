@@ -1,0 +1,636 @@
+-------------------------- STATISTICS --------------------------
+
+Hard constraints satisfied: 100.00 %
+Soft constraints satisfied: 50.53 %
+
+TOTAL empty space for all GROUPS and all days: 62
+MAX empty space for GROUP in day: 7
+AVERAGE empty space for GROUPS per week: 2.58
+
+TOTAL empty space for all TEACHERS and all days: 6
+MAX empty space for TEACHER in day: 4
+AVERAGE empty space for TEACHERS per week: 0.18
+
+
+--------------------------- SCHEDULE ---------------------------
+
+Class 41
+Teacher: Le Thanh Sach 
+Subject: Mobile Application Development 
+Groups: 303, 304, 305, 306, 307, 308, 314, 313 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R101 
+Time: Thursday 15 16
+
+Class 0
+Teacher: Tran Ngoc Bao Duy 
+Subject: Principle of Programming Language 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R108 
+Time: Wednesday 10 11
+
+Class 4
+Teacher: Nguyen Cao Tri 
+Subject: Modeling and Simulation 
+Groups: 305, 309a, 319, 323, 324 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R101 
+Time: Tuesday 9 10
+
+Class 12
+Teacher: Le Lai 
+Subject: Managing and maintaining Windows Server circles 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R207 
+Time: Tuesday 10 11 12
+
+Class 28
+Teacher: Dinh Kim Quoc Khai 
+Subject: Racunar animation 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R108 
+Time: Thursday 12 13 14
+
+Class 44
+Teacher: Nguyen Xuan Minh 
+Subject: Practical techniques are based on IP nets 
+Groups: 3s1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Thursday 13 14 15
+
+Class 14
+Teacher: Tran Ngoc Bao Duy 
+Subject: Database 
+Groups: 301, 302, 303, 304, 305, 306, 307, 308, 309, 309a, 2s1, 2s2 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R601 
+Time: Monday 11 12
+
+Class 38
+Teacher: Dinh Duc Anh Vu 
+Subject: Scenario and book shooting 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: Gymnasiums 
+Time: Wednesday 10 11 12
+
+Class 22
+Teacher: Pham Quoc Cuong 
+Subject: Competitive and distributed systems 
+Groups: 401, 402, 405 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R101 
+Time: Friday 13 14 15
+
+Class 56
+Teacher: Bui Xuan Giang 
+Subject: Principle of Programming Language 
+Groups: 301, 305, 308 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Tuesday 13 14
+
+Class 40
+Teacher: Nguyen Duy Thin 
+Subject: Web Programming 
+Groups: 301, 303, 304, 307, 322 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Thursday 9 10
+
+Class 62
+Teacher: Luu Quang Huan 
+Subject: Web application development and service 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R207 
+Time: Friday 10 11 12
+
+Class 36
+Teacher: Tran Van Hoai 
+Subject: Genetics Algorithm 
+Groups: 302, 303, 305, 306, 309, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R101 
+Time: Monday 9 10
+
+Class 17
+Teacher: Quan Thanh Tho 
+Subject: Software Engineering 
+Groups: 301, 307, 309a 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R108 
+Time: Monday 13 14
+
+Class 43
+Teacher: Thoai Nam 
+Subject: Parallel Computing 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R203 
+Time: Monday 11 12 13
+
+Class 24
+Teacher: Pham Tuan Vu 
+Subject: Web Programming 
+Groups: 301, 303, 304, 307, 308, 309, 314, 319, 322 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R101 
+Time: Thursday 11 12
+
+Class 42
+Teacher: Tran Giang Son 
+Subject: Music production 3 
+Groups: 3d1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R303 
+Time: Wednesday 16 17 18
+
+Class 48
+Teacher: Tran Giang Son 
+Subject: Algorithm theory, automata and languages 
+Groups: 401, 402 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R108 
+Time: Friday 16 17 18
+
+Class 30
+Teacher: Nguyen Hua Phung 
+Subject: Coding and information theory 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R101 
+Time: Wednesday 11 12 13
+
+Class 35
+Teacher: Vu Van Thong 
+Subject: Professional skills for engineers 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Friday 15 16
+
+Class 63
+Teacher: Nguyen An Khuong 
+Subject: Mobile Application Development 
+Groups: 303, 304, 305, 306, 307, 308, 314, 313 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Thursday 13 14
+
+Class 60
+Teacher: Nguyen Thi Ai Thao 
+Subject: Database 
+Groups: 308, 309, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R204 
+Time: Friday 13 14
+
+Class 59
+Teacher: Phan Duy Anh 
+Subject: Coding and information theory 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R205 
+Time: Monday 16 17
+
+Class 37
+Teacher: Nguyen Cao Tri 
+Subject: Modeling and Simulation 
+Groups: 319, 323 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R204 
+Time: Monday 9 10
+
+Class 23
+Teacher: Nguyen Quang Hung 
+Subject: Data center infrastructure 
+Groups: 322, 324 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Friday 13 14
+
+Class 67
+Teacher: Bui Xuan Giang 
+Subject: Principle of Programming Language 
+Groups: 306, 307, 309, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Wednesday 7 8
+
+Class 11
+Teacher: Dinh Kim Quoc Khai 
+Subject: Racunar animation 
+Groups: 3d1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R108 
+Time: Friday 12 13 14
+
+Class 45
+Teacher: Nguyen Thi Ai Thao 
+Subject: Database 
+Groups: 301, 303, 304, 305 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R204 
+Time: Friday 15 16
+
+Class 61
+Teacher: Tran Giang Son 
+Subject: Genetics Algorithm 
+Groups: 305, 306, 309, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R205 
+Time: Tuesday 11 12
+
+Class 52
+Teacher: Vu Van Thong 
+Subject: Practical techniques are based on IP nets 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R203 
+Time: Tuesday 7 8 9
+
+Class 15
+Teacher: Nguyen Van Hiep 
+Subject: Algorithm theory, automata and languages 
+Groups: 401, 402 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R101 
+Time: Monday 16 17 18
+
+Class 50
+Teacher: Vu Van Thong 
+Subject: Introduction to robotics 
+Groups: 313, 323 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R101 
+Time: Monday 14 15
+
+Class 55
+Teacher: Tran Giang Son 
+Subject: Genetics Algorithm 
+Groups: 302, 303 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Monday 14 15
+
+Class 18
+Teacher: Nguyen Duc Dung 
+Subject: Microsoft data access technologies 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Tuesday 16 17 18
+
+Class 27
+Teacher: Nguyen Huu Ky Ty 
+Subject: Signal digital ceremony 
+Groups: 405 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R203 
+Time: Thursday 11 12 13
+
+Class 32
+Teacher: Thoai Nam 
+Subject: Parallel Computing 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Wednesday 14 15
+
+Class 6
+Teacher: Bui Xuan Giang 
+Subject: Principle of Programming Language 
+Groups: 302, 303, 304 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Friday 13 14
+
+Class 53
+Teacher: Nguyen Quang Hung 
+Subject: Data center infrastructure 
+Groups: 322, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R203 
+Time: Monday 9 10
+
+Class 29
+Teacher: Dinh Duc Anh Vu 
+Subject: Scenario and book shooting 
+Groups: 3d1 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R108 
+Time: Tuesday 9 10
+
+Class 16
+Teacher: Nguyen Thi Minh Huong 
+Subject: Naming systems 
+Groups: 405 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Friday 16 17 18
+
+Class 26
+Teacher: Tran Van Hoai 
+Subject: Graphic design 2 
+Groups: 3d1 
+Type: V 
+Duration: 3 hour(s)
+Classroom: Gymnasiums 
+Time: Thursday 15 16 17
+
+Class 54
+Teacher: Huynh Bao Tuan 
+Subject: Competitive and distributed systems 
+Groups: 401 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R204 
+Time: Wednesday 16 17 18
+
+Class 31
+Teacher: Tran Giang Son 
+Subject: Music production 3 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R303 
+Time: Thursday 7 8 9
+
+Class 1
+Teacher: Nguyen Kieu Dung 
+Subject: Software engineering 
+Groups: 401, 402 
+Type: P 
+Duration: 4 hour(s)
+Classroom: R108 
+Time: Wednesday 12 13 14 15
+
+Class 34
+Teacher: Phan Duy Anh 
+Subject: Signal digital ceremony 
+Groups: 405 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R207 
+Time: Wednesday 7 8 9
+
+Class 65
+Teacher: Trinh Minh Hai 
+Subject: Software engineering 
+Groups: 401 
+Type: V 
+Duration: 4 hour(s)
+Classroom: R203 
+Time: Friday 7 8 9 10
+
+Class 46
+Teacher: Le Ba Loc 
+Subject: Functional Programming 
+Groups: 302, 304, 309 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R204 
+Time: Monday 7 8
+
+Class 9
+Teacher: Quan Thanh Tho 
+Subject: Functional Programming 
+Groups: 302, 304, 309 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Wednesday 12 13
+
+Class 57
+Teacher: Nguyen Thi Ai Thao 
+Subject: Database 
+Groups: 302, 306, 307 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R205 
+Time: Friday 10 11
+
+Class 2
+Teacher: Tran Van Hoai 
+Subject: Graphic design 2 
+Groups: 3d1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R101 
+Time: Monday 11 12 13
+
+Class 68
+Teacher: Le Lai 
+Subject: Implementing Microsoft ISA Server 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Thursday 10 11 12
+
+Class 25
+Teacher: Trinh Minh Hai 
+Subject: Software engineering 
+Groups: 402 
+Type: V 
+Duration: 4 hour(s)
+Classroom: R203 
+Time: Thursday 14 15 16 17
+
+Class 7
+Teacher: Phan Duy Anh 
+Subject: Introduction to robotics 
+Groups: 313, 323 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R205 
+Time: Friday 12 13
+
+Class 10
+Teacher: Nguyen Van Hiep 
+Subject: Development of infrastructure and service in the cloud 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R207 
+Time: Monday 12 13 14
+
+Class 21
+Teacher: Nguyen Duc Dung 
+Subject: Microsoft data access technologies 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R204 
+Time: Monday 16 17 18
+
+Class 49
+Teacher: Nguyen Cao Tri 
+Subject: Modeling and Simulation 
+Groups: 305, 309a, 324 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Thursday 11 12
+
+Class 33
+Teacher: Le Dinh Thuan 
+Subject: Software Engineering 
+Groups: 301, 307, 309a 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Monday 17 18
+
+Class 13
+Teacher: Huynh Bao Tuan 
+Subject: Competitive and distributed systems 
+Groups: 402 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R204 
+Time: Friday 10 11 12
+
+Class 47
+Teacher: Nguyen Xuan Lai 
+Subject: Computer Network 
+Groups: 301, 302, 306, 308 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R101 
+Time: Tuesday 7 8
+
+Class 51
+Teacher: Le Lai 
+Subject: Managing and maintaining Windows Server circles 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R207 
+Time: Friday 7 8 9
+
+Class 66
+Teacher: Le Lai 
+Subject: Implementing Microsoft ISA Server 
+Groups: 3s1 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Monday 9 10 11
+
+Class 58
+Teacher: Nguyen Duy Thin 
+Subject: Web Programming 
+Groups: 308, 309, 314, 319 
+Type: V 
+Duration: 2 hour(s)
+Classroom: R205 
+Time: Monday 14 15
+
+Class 19
+Teacher: Nguyen Huu Ky Ty 
+Subject: Professional skills for engineers 
+Groups: 314, 319, 322, 313, 323, 324 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R207 
+Time: Tuesday 7 8
+
+Class 20
+Teacher: Luu Quang Huan 
+Subject: Web application development and service 
+Groups: 3s2 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Thursday 16 17 18
+
+Class 5
+Teacher: Nguyen Van Hiep 
+Subject: Development of infrastructure and service in the cloud 
+Groups: 3s2 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R203 
+Time: Wednesday 9 10 11
+
+Class 3
+Teacher: Huynh Bao Tuan 
+Subject: Competitive and distributed systems 
+Groups: 405 
+Type: V 
+Duration: 3 hour(s)
+Classroom: R205 
+Time: Thursday 7 8 9
+
+Class 8
+Teacher: Nguyen Dinh Thai 
+Subject: Computer Network 
+Groups: 301, 302, 306, 308 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R108 
+Time: Friday 7 8
+
+Class 39
+Teacher: Vu Van Thong 
+Subject: Naming systems 
+Groups: 405 
+Type: P 
+Duration: 3 hour(s)
+Classroom: R204 
+Time: Tuesday 10 11 12
+
+Class 64
+Teacher: Nguyen Xuan Minh 
+Subject: History of racism 
+Groups: 3s1, 3s2 
+Type: P 
+Duration: 2 hour(s)
+Classroom: R108 
+Time: Thursday 7 8
